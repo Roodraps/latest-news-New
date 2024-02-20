@@ -1,0 +1,8 @@
+{
+    "selectors": {
+      "listItem": "<li class=\"latest-stories__item\">",
+      "link": "a",
+      "titletag": "h3"
+    }
+  }
+  
